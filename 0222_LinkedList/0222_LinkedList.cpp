@@ -13,6 +13,8 @@ struct Node
     Node* prev;
 
 };
+
+Node* START = NULL;
    
 
 int main()
